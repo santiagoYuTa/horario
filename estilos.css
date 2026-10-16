@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1000px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 11px;
+    margin: 20px auto;
+}
+
+th, td {
+    border: 2px solid #222;
+    padding: 10px 5px;
+}
+
+th {
+    background-color: #329cff; 
+    font-size: 13px;
+}
+
+.columna-horas {
+    background-color: #329cff;
+    font-weight: bold;
+    font-size: 13px;
+    width: 60px;
+}
